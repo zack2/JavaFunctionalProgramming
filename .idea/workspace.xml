@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48da19af-3bdb-4577-805c-5f9e519f0a75" name="Changes" comment="add declarative programming">
+    <list default="true" id="48da19af-3bdb-4577-805c-5f9e519f0a75" name="Changes" comment="chain function with andThen method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/functionalinterfaces/Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/functionalinterfaces/Functions.java" afterDir="false" />
     </list>
@@ -73,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652380984206</updated>
-      <workItem from="1652381001116" duration="3909000" />
+      <workItem from="1652381001116" duration="4942000" />
     </task>
     <task id="LOCAL-00001" summary="add declarative programming">
       <created>1652384967455</created>
@@ -82,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652384967455</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="chain function with andThen method">
+      <created>1652386328498</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652386328498</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add declarative programming" />
-    <option name="LAST_COMMIT_MESSAGE" value="add declarative programming" />
+    <MESSAGE value="chain function with andThen method" />
+    <option name="LAST_COMMIT_MESSAGE" value="chain function with andThen method" />
   </component>
 </project>
