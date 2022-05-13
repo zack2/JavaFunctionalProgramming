@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48da19af-3bdb-4577-805c-5f9e519f0a75" name="Changes" comment="adding Supplier Functional interface">
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams/Streams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="48da19af-3bdb-4577-805c-5f9e519f0a75" name="Changes" comment="intro to stream">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/optionals/Optionals.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +45,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Streams">
-    <configuration name="Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionalinterfaces.Functions" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="JavaFunctionalProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Optionals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="optionals.Optionals" />
       <module name="JavaFunctionalProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functionalinterfaces.*" />
+          <option name="PATTERN" value="optionals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,26 +105,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="functionalinterfaces.Consumers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionalinterfaces.Consumers" />
-      <module name="JavaFunctionalProgramming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="functionalinterfaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Optionals" />
         <item itemvalue="Application.Streams" />
         <item itemvalue="Application.Suppliers" />
         <item itemvalue="Application.Predicates" />
-        <item itemvalue="Application.functionalinterfaces.Consumers" />
-        <item itemvalue="Application.functionalinterfaces.Functions" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +124,7 @@
       <option name="presentableId" value="Default" />
       <updated>1652380984206</updated>
       <workItem from="1652381001116" duration="5706000" />
-      <workItem from="1652423406695" duration="10219000" />
+      <workItem from="1652423406695" duration="10692000" />
     </task>
     <task id="LOCAL-00001" summary="add declarative programming">
       <created>1652384967455</created>
@@ -174,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652453645700</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="intro to stream">
+      <created>1652454645348</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1652454645348</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +199,7 @@
     <MESSAGE value="adding BiConsumer Functional interface" />
     <MESSAGE value="adding Predicate Functional interface" />
     <MESSAGE value="adding Supplier Functional interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding Supplier Functional interface" />
+    <MESSAGE value="intro to stream" />
+    <option name="LAST_COMMIT_MESSAGE" value="intro to stream" />
   </component>
 </project>
