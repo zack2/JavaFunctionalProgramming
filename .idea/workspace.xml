@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48da19af-3bdb-4577-805c-5f9e519f0a75" name="Changes" comment="add callback like in Javascript">
+    <list default="true" id="48da19af-3bdb-4577-805c-5f9e519f0a75" name="Changes" comment="add lambda">
       <change afterPath="$PROJECT_DIR$/src/main/java/finalsection/Lambdas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -125,7 +125,7 @@
       <updated>1652380984206</updated>
       <workItem from="1652381001116" duration="5706000" />
       <workItem from="1652423406695" duration="13889000" />
-      <workItem from="1652688585698" duration="2740000" />
+      <workItem from="1652688585698" duration="3055000" />
     </task>
     <task id="LOCAL-00001" summary="add declarative programming">
       <created>1652384967455</created>
@@ -190,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652690383723</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add lambda">
+      <created>1652691793453</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1652691793453</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +224,7 @@
     <MESSAGE value="intro to stream" />
     <MESSAGE value="add optional" />
     <MESSAGE value="add callback like in Javascript" />
-    <option name="LAST_COMMIT_MESSAGE" value="add callback like in Javascript" />
+    <MESSAGE value="add lambda" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lambda" />
   </component>
 </project>
